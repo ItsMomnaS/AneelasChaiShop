@@ -1,9 +1,5 @@
-# AneelasChaiShop
+# AneelasChaiShop Code Samples
 Unity scripts from Aneela's Chai Shop - a narrative game exploring grief and ritual through chai-making mechanics
-
-# Aneela's Chai Shop - Code Samples
-
-Selected Unity scripts from my narrative game exploring grief and cultural ritual through chai-making.
 
 ---
 
